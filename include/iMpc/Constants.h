@@ -19,6 +19,7 @@ namespace iMpc {
     enum CostType{
         Integral,
         Terminal,
+        IntegralInInterval,
     };
 }
 
